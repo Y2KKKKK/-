@@ -1,7 +1,0 @@
-cd ~/Desktop/MX_DACfinished
-git init
-git add .
-git commit -m "Add 信号发生器接线图"
-git remote add origin https://github.com/Y2KKKKK/-.git
-git pull origin main --allow-unrelated-histories --no-edit
-git push -u origin main
